@@ -1,0 +1,2 @@
+# Training
+Sitecore Training
